@@ -25,7 +25,7 @@ Download Dataset [click here](https://github.com/Ayushi0214/Masterclass-Datasets
 > **New Measures:**
 
 ```dax
-Revenue = SUMX('Dataset','Dataset'[price]*'Dataset'[quality])
+Revenue = SUMX('Dataset','Dataset'[price]*'Dataset'[quantity])
 ```
 ```dax
 Avg Order Value = ([Revenue]/DISTINCTCOUNT('Dataset'[order_id]))
