@@ -30,8 +30,10 @@ Avg Order Value = ([Revenue]/DISTINCTCOUNT('Dataset'[order_id]))
 > **New Columns:**
 
 ```dax
-month = MONTH('Dataset'[order_date])
+Month = MONTH('Dataset'[order_date])
 ```
 ```dax
-day of week = WEEKDAY('Dataset'[order_date])
+Day of Week = WEEKDAY('Dataset'[order_date])
 ```
+
+To See the Report [click here](https://app.powerbi.com/groups/me/reports/5fbd2019-4fe0-4a2e-97a8-2e66cf88b0f9?ctid=645f5409-bd60-43a1-8fef-1a83b657c220&pbi_source=linkShare).
