@@ -40,3 +40,5 @@ Day of Week = WEEKDAY('Dataset'[order_date])
 ![image](https://github.com/user-attachments/assets/4df76866-82bd-4759-a517-9b0a1610ec3a)
 
 To See the Live Report [click here](https://app.powerbi.com/groups/me/reports/5fbd2019-4fe0-4a2e-97a8-2e66cf88b0f9?ctid=645f5409-bd60-43a1-8fef-1a83b657c220&pbi_source=linkShare).
+
+<iframe title="Dominos Sales Report" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=5fbd2019-4fe0-4a2e-97a8-2e66cf88b0f9&autoAuth=true&ctid=645f5409-bd60-43a1-8fef-1a83b657c220" frameborder="0" allowFullScreen="true"></iframe>
