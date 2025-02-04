@@ -16,6 +16,10 @@ This repository showcases an **Interactive Power BI Dashboard** visualizig a com
 9️⃣ Are there any seasonal trends in pizza sales (e.g., higher sales on weekends or certain months)?  
 🔟 Which size of pizza is ordered the most?
 
+## Dataset
+
+Download Dataset [click here](https://github.com/Ayushi0214/Masterclass-Datasets/blob/main/domino's/Dataset.csv)
+
 ## DAX Queries Used
 
 > **New Measures:**
