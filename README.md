@@ -1,5 +1,5 @@
 # Domino's Sale Performance
-This repository showcases an **Interactive Power BI Dashboard** visualizig a comprehensive sales analysis for **Domino's Pizza**.
+This repository showcases an **Interactive Power BI Report** visualizig a comprehensive sales analysis for **Domino's Pizza**.
 
 ![image](https://github.com/user-attachments/assets/b0f5eb21-e401-4d82-b247-4028d144d84a)
 
