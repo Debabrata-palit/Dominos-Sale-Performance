@@ -39,5 +39,4 @@ Day of Week = WEEKDAY('Dataset'[order_date])
 
 ![image](https://github.com/user-attachments/assets/4df76866-82bd-4759-a517-9b0a1610ec3a)
 
-To See the Live Report [click here](https://app.powerbi.com/reportEmbed?reportId=5fbd2019-4fe0-4a2e-97a8-2e66cf88b0f9&autoAuth=true&ctid=645f5409-bd60-43a1-8fef-1a83b657c220).
-https://app.powerbi.com/groups/93f1570e-5a4a-4a48-be1c-807f851d2314/dashboards/6fcaa363-9ac5-420e-a893-718e06629fbc?ctid=645f5409-bd60-43a1-8fef-1a83b657c220&pbi_source=linkShare
+To See the Live Report [click here](https://app.powerbi.com/view?r=eyJrIjoiOWRmNTdmY2ItY2YwZC00ZWRmLTg0NDctYzAwYmU2MWJjNzVkIiwidCI6IjY0NWY1NDA5LWJkNjAtNDNhMS04ZmVmLTFhODNiNjU3YzIyMCJ9).
