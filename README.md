@@ -41,6 +41,6 @@ Day of Week = WEEKDAY('Dataset'[order_date])
 ```
 ## Dashboard
 
-![image](https://github.com/user-attachments/assets/4df76866-82bd-4759-a517-9b0a1610ec3a)
+![powerbi_report](https://github.com/user-attachments/assets/a89a3cfd-2549-4c69-bde4-58b566ea59d8)
 
 To See the Live Report [click here](https://app.powerbi.com/view?r=eyJrIjoiOWRmNTdmY2ItY2YwZC00ZWRmLTg0NDctYzAwYmU2MWJjNzVkIiwidCI6IjY0NWY1NDA5LWJkNjAtNDNhMS04ZmVmLTFhODNiNjU3YzIyMCJ9).
